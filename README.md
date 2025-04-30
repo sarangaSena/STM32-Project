@@ -52,5 +52,11 @@ Use [Issues](https://github.com/your-repo/issues) for bug reports or feature req
 
 ---
 
+## Getting Started
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/STM32-project.git
+
 **License**  
 This project is licensed under the MIT License.
