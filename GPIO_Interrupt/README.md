@@ -23,12 +23,3 @@ The STM32F4 microcontroller is a powerful ARM Cortex-M4-based microcontroller. T
 - **OpenOCD** or **ST-Link** for flashing the firmware to the STM32F4.
 - A basic understanding of STM32F4 microcontroller peripherals and interrupt handling.
 
-## Getting Started
-
-### 1. Clone the Repository
-
-Clone the repository to your local machine to get started with the project:
-
-```bash
-git clone https://github.com/yourusername/stm32f4-gpio-interrupt-example.git
-cd stm32f4-gpio-interrupt-example
