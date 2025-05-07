@@ -1,4 +1,4 @@
-# STM32 Bare-Metal Programming using C Projects
+# STM32 Bare-Metal Programming using C
 
 Development of STM32 projects using C language targets open community support and learning. This repository provides accessible, well-documented examples to guide users from basic to advanced levels of embedded systems programming.
 
